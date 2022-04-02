@@ -3,7 +3,7 @@
 >Es un ejercicio de mi aprendizaje
 >-yo
 
-##Aprendí:
+##Aprendi:
 * comandos GIT
 * Flujo de trabajo
 
